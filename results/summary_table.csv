@@ -1,0 +1,13 @@
+policy,phase,average_hit_ratio,average_faults
+FIFO,locality,0.5389,461.1
+FIFO,random,0.1993,800.7
+FIFO,overall,0.3691,1261.8
+LRU,locality,0.5802,419.8
+LRU,random,0.2005,799.5
+LRU,overall,0.3904,1219.3
+OPTIMAL,locality,0.7431,256.9
+OPTIMAL,random,0.4404,559.6
+OPTIMAL,overall,0.5918,816.5
+LEARNED,locality,0.654,346.0
+LEARNED,random,0.2019,798.1
+LEARNED,overall,0.428,1144.1

@@ -1,0 +1,3 @@
+phase,total_decisions,correct_matches,incorrect_matches,optimal_victim_agreement,average_confidence,average_confidence_when_correct,average_confidence_when_incorrect
+locality,3420,1727,1693,0.505,0.5888,0.66,0.5162
+random,7981,1990,5991,0.2493,0.7754,0.7787,0.7742
